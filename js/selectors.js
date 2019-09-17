@@ -3,6 +3,10 @@
  return  $('p')
  }
  
+ function lastImageSelector(){
+   return $('')
+ }
+ 
  function divSelector() {
   return $('.pics')
 }
